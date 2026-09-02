@@ -14,7 +14,7 @@ I am a **Software Engineering student**, currently in my **4th semester**. I am 
 </p>
 
 <p align="center">
-  Looking for: Internships | Junior Software Engineer | AI Developer (Remote/Hybrid)
+  Looking for: Internships | Junior Software Engineer | AI Developer (In-person/Remote/Hybrid)
 </p>
 
 ---
