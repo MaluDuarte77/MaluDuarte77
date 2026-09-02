@@ -1,7 +1,7 @@
 # Hi there, I'm Maria Luiza! 👋
 
 ## 🚀 About Me
-I am a **Software Engineering Student** currently in my **4th period**. I am deeply passionate about building scalable server-side systems and exploring the endless possibilities of Artificial Intelligence. 
+I am a **Software Engineering student**, currently in my **4th semester**. I am deeply passionate about building scalable server-side systems and exploring the endless possibilities of Artificial Intelligence.
 
 * 🧠 **Current Focus:** Advanced Backend Architecture & AI Integration.
 * ⚡ **Goal:** Creating efficient, data-driven solutions to solve real-world problems.
