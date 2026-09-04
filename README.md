@@ -13,9 +13,6 @@ I am a **Software Engineering student**, currently in my **4th semester**. I am 
   <b>Learning AI tools to build smarter software</b> | <b>Focusing on Machine Learning & Backend Architecture</b> | <b>Experience with Python, SQL and Clean Code</b>
 </p>
 
-<p align="center">
-  Looking for: Internships | Junior Software Engineer | AI Developer (In-person/Remote/Hybrid)
-</p>
 
 ---
 ### 📋 Languages
