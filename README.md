@@ -10,7 +10,7 @@ I am a **Software Engineering student**, currently in my **4th semester**. I am 
 </p>
 
 <p align="center">
-  <b>Learning AI tools to build smarter software</b> | <b>Focusing on Machine Learning & Backend Architecture</b> | <b>Experience with Python, SQL and Clean Code</b>
+  <b>Learning AI tools to build smarter software</b> | <b>Focusing on Machine Learning & Backend Architecture</b> | <b>Experience with Python,SAP,SQL and Clean Code</b>
 </p>
 
 
