@@ -1,16 +1,28 @@
-# Hi there, I'm Maria Luiza! 👋
+# Olá, eu sou a Maria Luiza! 👋
 
-## 🚀 About Me
-I am a **Software Engineering student**, currently in my **4th semester**. I am deeply passionate about building scalable server-side systems and exploring the endless possibilities of Artificial Intelligence.
+## 🚀 Sobre Mim
+Sou uma futura Tech Lead em IA, atualmente graduando em Engenharia de Software (4º semestre) e acelerando minha carreira com foco em sistemas backend altamente escaláveis e soluções corporativas baseadas em Inteligência Artificial. Minha meta é liderar times de alta performance, unindo arquitetura de software sólida (Clean Code) a modelos preditivos e generativos que geram impacto real de negócio.
 
-* 🧠 **Current Focus:** Advanced Backend Architecture & AI Integration.
-* ⚡ **Goal:** Creating efficient, data-driven solutions to solve real-world problems.
-* 🌱 **Learning:** Always expanding my knowledge in algorithms, cloud computing, and machine learning models.
+* 🧠 **Foco Atual**:  Liderança Técnica (Tech Lead), Engenharia de IA e Arquitetura de Sistemas Distribuídos.
+* ⚡ **Objetivo Atual**: Aberta a oportunidades que unam engenharia de software tradicional e inteligência artificial, disponível para atuação em qualquer regime de trabalho (Presencial, Híbrido ou Remoto).
+* 🌱 **Desenvolvimento Contínuo**: Evoluindo em design de sistemas complexos, CI/CD para MLOps, computação em nuvem (AWS/GCP/Azure) e facilitação de times ágeis.
 
-</p>
+#🛠️ **Stack Tecnológica & Hard Skills**
+**AI & Machine Learning**: Integração de LLMs, LangChain, Engenharia de Prompt, Scikit-Learn, Pandas, Inteligência Artificial Generativa.
+**Backend & Engenharia**: Python (FastAPI, Django), SQL Avançado (PostgreSQL, MySQL), Ecossistema SAP, Arquitetura de Microsserviços e Clean Code.
+**Infraestrutura & Cloud**: Docker, Git/GitHub, Fundamentos de Cloud Computing e MLOps.
 
-<p align="center">
-  <b>Learning AI tools to build smarter software</b> | <b>Focusing on Machine Learning & Backend Architecture</b> | <b>Experience with Python,SAP,SQL and Clean Code</b>
+#👥 **Soft Skills & Mentalidade de Liderança**
+**Pensamento Crítico**: Tradução de necessidades complexas de negócio em arquitetura de software inteligente.
+**Foco em Mentoria**: Disseminação de boas práticas de Clean Code e arquitetura para o time.
+**Abordagem Data-Driven**: Tomada de decisões técnicas baseada em métricas de performance, custo de infraestrutura de IA e escalabilidade.
+
+
+#📍 **Disponibilidade e Formato**
+
+ **Modelos de Trabalho: Remoto, Híbrido ou Presencial (Flexível)**
+ **Localização Base: Belo Horizonte - MG (Região Metropolitan**
+
 </p>
 
 
