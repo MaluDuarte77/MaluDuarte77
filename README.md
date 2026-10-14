@@ -1,33 +1,36 @@
-# Olá, eu sou a Maria Luiza! 👋
+ Olá, eu sou a Maria Luiza! 👋
 
-## 🚀 Sobre Mim
-Sou uma futura Tech Lead em IA, atualmente graduando em Engenharia de Software (4º semestre) e acelerando minha carreira com foco em sistemas backend altamente escaláveis e soluções corporativas baseadas em Inteligência Artificial. Minha meta é liderar times de alta performance, unindo arquitetura de software sólida (Clean Code) a modelos preditivos e generativos que geram impacto real de negócio.
+🚀 **Sobre Mim**
+Sou uma **Engenheira de IA em ascensão**, atualmente cursando Engenharia de Software (4º semestre) e focada no desenvolvimento de sistemas backend escaláveis integrados a soluções de Inteligência Artificial. Meu objetivo de carreira é me tornar **Tech Lead em IA**, liderando times de alta performance na criação de arquiteturas de software sólidas (Clean Code) combinadas com modelos preditivos e generativos de real impacto no negócio.
 
-* 🧠 **Foco Atual**:  Liderança Técnica (Tech Lead), Engenharia de IA e Arquitetura de Sistemas Distribuídos.
-  
-* ⚡ **Objetivo Atual**: Aberta a oportunidades que unam engenharia de software tradicional e inteligência artificial, disponível para atuação em qualquer regime de trabalho (Presencial, Híbrido ou Remoto).
-  
-* 🌱 **Desenvolvimento Contínuo**: Evoluindo em design de sistemas complexos, CI/CD para MLOps, computação em nuvem (AWS/GCP/Azure) e facilitação de times ágeis.
+🧠 **Foco Atual:** Engenharia de IA (Generativa e Preditiva), Orquestração de LLMs, Arquitetura de Sistemas Distribuídos e MLOps.
 
-#🛠️ **Stack Tecnológica & Hard Skills**
-**AI & Machine Learning**: Integração de LLMs, LangChain, Engenharia de Prompt, Scikit-Learn, Pandas, Inteligência Artificial Generativa.
+⚡ **Objetivo:** Aberta a oportunidades que unam engenharia de software tradicional e inteligência artificial. Disponível para atuação Presencial, Híbrido ou Remoto.
 
-**Backend & Engenharia**: Python (FastAPI, Django), SQL Avançado (PostgreSQL, MySQL), Ecossistema SAP, Arquitetura de Microsserviços e Clean Code.
+🌱 **Desenvolvimento Contínuo:** Arquitetura de sistemas complexos, CI/CD aplicados a MLOps, computação em nuvem (AWS/GCP) e facilitação de times ágeis.
 
-**Infraestrutura & Cloud**: Docker, Git/GitHub, Fundamentos de Cloud Computing e MLOps.
+---
 
-#👥 **Soft Skills & Mentalidade de Liderança**
-**Pensamento Crítico**: Tradução de necessidades complexas de negócio em arquitetura de software inteligente.
+### 🛠️ Stack Tecnológica & Hard Skills
 
-**Foco em Mentoria**: Disseminação de boas práticas de Clean Code e arquitetura para o time.
+* **AI Engineering & Generative AI:** Integração e Orquestração de LLMs (Claude, Gemini, OpenAI), Frameworks de Agentes (LangChain, n8n), Engenharia de Prompt, RAG (Retrieval-Augmented Generation), Scikit-Learn e Pandas.
+* **Backend & Arquitetura:** Python (FastAPI, Django), PHP, SQL Avançado (PostgreSQL, MySQL), Arquitetura de Microsserviços e Clean Code.
+* **Infraestrutura, Cloud & DevOps:** Docker, Fundamentos de MLOps (Pipeline de deploy de modelos), Git/GitHub e Cloud Computing.
 
-**Abordagem Data-Driven**: Tomada de decisões técnicas baseada em métricas de performance, custo de infraestrutura de IA e escalabilidade.
+---
 
+### 👥 Soft Skills & Mentalidade de Liderança
 
-#📍 **Disponibilidade e Formato**
+* **Pensamento Crítico:** Tradução de necessidades complexas de negócio em arquitetura de software inteligente e orientada a IA.
+* **Abordagem Data-Driven:** Tomada de decisões técnicas baseada em métricas de performance, custo de infraestrutura/tokens de IA e escalabilidade.
+* **Foco em Mentoria:** Disseminação de boas práticas de desenvolvimento, Clean Code e integração de IA para o time.
 
- **Modelos de Trabalho: Remoto, Híbrido ou Presencial (Flexível)**
- **Localização Base: Belo Horizonte - MG (Região Metropolitan**
+---
+
+### 📍 Disponibilidade e Formato
+
+* **Modelos de Trabalho:** Remoto, Híbrido ou Presencial (Flexível)
+* **Localização Base:** Região Metropolitana de Belo Horizonte - MG 🇧🇷
 
 </p>
 
