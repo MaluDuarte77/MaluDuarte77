@@ -1,4 +1,4 @@
- Olá, eu sou a Maria Luiza! 👋
+ # Olá, eu sou a Maria Luiza! 👋
 
 🚀 **Sobre Mim**
 Sou uma **Engenheira de IA em ascensão**, atualmente cursando Engenharia de Software (4º semestre) e focada no desenvolvimento de sistemas backend escaláveis integrados a soluções de Inteligência Artificial. Meu objetivo de carreira é me tornar **Tech Lead em IA**, liderando times de alta performance na criação de arquiteturas de software sólidas (Clean Code) combinadas com modelos preditivos e generativos de real impacto no negócio.
