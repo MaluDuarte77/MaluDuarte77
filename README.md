@@ -4,9 +4,9 @@
 Sou uma futura Tech Lead em IA, atualmente graduando em Engenharia de Software (4º semestre) e acelerando minha carreira com foco em sistemas backend altamente escaláveis e soluções corporativas baseadas em Inteligência Artificial. Minha meta é liderar times de alta performance, unindo arquitetura de software sólida (Clean Code) a modelos preditivos e generativos que geram impacto real de negócio.
 
 * 🧠 **Foco Atual**:  Liderança Técnica (Tech Lead), Engenharia de IA e Arquitetura de Sistemas Distribuídos.
-* 
+  
 * ⚡ **Objetivo Atual**: Aberta a oportunidades que unam engenharia de software tradicional e inteligência artificial, disponível para atuação em qualquer regime de trabalho (Presencial, Híbrido ou Remoto).
-* 
+  
 * 🌱 **Desenvolvimento Contínuo**: Evoluindo em design de sistemas complexos, CI/CD para MLOps, computação em nuvem (AWS/GCP/Azure) e facilitação de times ágeis.
 
 #🛠️ **Stack Tecnológica & Hard Skills**
